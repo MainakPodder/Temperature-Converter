@@ -15,6 +15,7 @@ h1{
     top: 30%;
     left: 50%;
     color: #fff;
+    font-family: monospace;
 }
 .container{
     position: absolute;
@@ -57,6 +58,7 @@ input:focus{
     color: #fff;
     background-color: #f9ab00;
     font-size: 12px;
+    font-weight: bold;
 }
 .equation{
     display: inline-block;
